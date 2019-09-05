@@ -1,2 +1,2 @@
 # DataScienceBootcampHomework
-Unconventional PCA analysis of the Ridge Crest July earthquakes
+Unconventional PCA analysis of the Ridgecrest July earthquakes
